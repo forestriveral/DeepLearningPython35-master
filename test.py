@@ -148,7 +148,7 @@ def testTheano():
     else:
         print('Used the gpu')
 # Perform check:
-#testTheano()
+testTheano()
 
 
 # ----------------------
